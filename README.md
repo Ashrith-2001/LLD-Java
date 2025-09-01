@@ -1,5 +1,5 @@
 # LLD-Java
-##Overview
+## Overview
 
 LLD-Java is a personal repository to collect and practice classic Low-Level Design (LLD) problems with clean Java implementations. 
 This project is intended to help me and others reinforce design principles, develop a strong foundation in Java, and serve as a reference for real-world LLD interview problems.
@@ -25,7 +25,7 @@ Problem description (as comments or a markdown file)
 * Run Java files locally to see outputs and experiment.
 * Try extending or modifying implementations to deepen understanding.
 
-##Valuable Insights
+## Valuable Insights
 * **Why LLD?:** 
     Low-level design is critical for building robust, maintainable, and scalable software.
     Practicing these problems helps you master fundamental concepts that show up in coding interviews and real-world system development.
