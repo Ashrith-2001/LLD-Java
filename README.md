@@ -19,7 +19,7 @@ Problem description (as comments or a markdown file)
 2. UML or class diagrams (optional)
 3. Test/example code (optional)
 
-## How to US This Repository
+## How to use This Repository
 * Read the README.md in each problem directory for detailed explanations.
 * Review code and comments for step-by-step logic.
 * Run Java files locally to see outputs and experiment.
